@@ -11,3 +11,6 @@ by
 Pascal Philipp, Luis Tarrataca, and Stefan Boettcher.
 
 http://arxiv.org/abs/1601.01154
+
+
+(The code was written by PP and LT)
